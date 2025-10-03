@@ -1,0 +1,8 @@
+numpy
+kaggle
+pandas
+seaborn
+matplotlib
+scikit-learn
+torch --index-url https://download.pytorch.org/whl/cu126
+torchvision --index-url https://download.pytorch.org/whl/cu126
