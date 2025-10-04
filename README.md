@@ -61,8 +61,8 @@ Want to learn AI? [Visit my portfolio][animakit] to explore more tutorials and p
 ```
 ├── 00-ML/                          # Folder containing all ML notebooks
 │   └── 00-regression/              # Folder containing all regression notebooks
-│       └── 00-basics.ipynb         # First tutorial for regression basics
-│       └── 01-preprocessing.ipynb  # First tutorial for regression basics
+│       └── 00-basics.ipynb         # 1st tutorial for regression basics
+│       └── 01-preprocessing.ipynb  # 2nd tutorial for regression basics
 ├── requirements.txt                # Required Python libraries for main app
 ```
 
