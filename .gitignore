@@ -1,7 +1,6 @@
 # User specific files
-*.zip
-*.csv
-receipts
+data
+.claude
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
