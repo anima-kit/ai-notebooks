@@ -1,9 +1,0 @@
-numpy
-kaggle
-pandas
-seaborn
-matplotlib
-scikit-learn
-docling[vlm]
-hf-xet
-pydantic

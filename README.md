@@ -17,12 +17,12 @@ Now, let's get building!
 
 ## 🏁 Getting Started 
 
-1.  Clone the repo, head there, then create a Python environment:
+1.  Clone the repo, head there, then sync the pyproject with uv:
 
     ```bash
     git clone https://github.com/anima-kit/ai-notebooks.git
     cd ai-notebooks
-    uv venv venv
+    uv sync
     ``` 
 
     <a id="gs-activate"></a>
@@ -30,14 +30,7 @@ Now, let's get building!
 1.  Activate the Python environment:
 
     ```bash
-    venv/Scripts/activate
-    ```
-
-1. Install the necessary Python libraries:
-
-    ```bash
-    uv pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
-    uv pip install -r requirements.txt
+    .venv/Scripts/activate
     ```
 
 1. Setup Kaggle account and API key:
