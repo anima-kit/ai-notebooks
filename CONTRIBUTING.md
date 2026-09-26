@@ -39,8 +39,6 @@ I also ask all contributors to follow the [Code of Conduct][conduct-code].
 
 - I don't allow any Github issues and won't be taking any PRs for this site
 - Only feedback in the [discussions section][discussions] will be considered
-- I do allow issues and PRs for each of my repos that are associated with these tutorials
-- To make code changes, you can visit the associated repo that's linked in each tutorial
 
 ---
 
