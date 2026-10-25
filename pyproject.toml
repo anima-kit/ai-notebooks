@@ -2,18 +2,18 @@
 name = "ai-notebooks"
 version = "0.1.0"
 description = "A collection of Jupyter notebooks for various aspects of AI."
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = [
-    "scikit-learn>=1.6.0",
-    "numpy>=2.0.0",
-    "pandas>=2.3.0",
-    "scipy>=1.14.0",
+    "scikit-learn>=1.9.0",
+    "numpy>=2.5.0",
+    "pandas>=3.0.0",
+    "scipy>=1.18.0",
     "matplotlib>=3.11.0",
     "seaborn>=0.13.0",
-    "pydantic>=2.13.0",
-    "hf-xet>=1.6.0",
+    "pydantic>=2.14.0",
+    "hf-xet>=1.7.0",
     "kaggle>=2.2.0",
-    "docling[vlm]>=2.130.0",
+    "docling[vlm]>=2.142.0",
     "torch>=2.13.0",
     "torchvision>=0.28.0"
 ]
@@ -30,7 +30,7 @@ torch = { index = "pytorch-cu126" }
 
 [dependency-groups]
 dev = [
-    "ruff>=0.16.6"
+    "ruff>=0.17.0"
 ]
 
 [build-system]
